@@ -1,0 +1,6 @@
+[
+  { "letter": "A", "question": "Elma için İngilizce?", "answer": "Apple" },
+  { "letter": "B", "question": "Bir tür deniz canlısı?", "answer": "Balık" },
+  { "letter": "C", "question": "Ceviz hangi harf ile başlar?", "answer": "Ceviz" },
+  { "letter": "D", "question": "Bir evcil hayvan adı?", "answer": "Dog" }
+]
